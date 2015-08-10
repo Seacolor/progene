@@ -1,0 +1,11 @@
+<h1><%= @name %>'s Profile</h1>
+
+<ul>
+<% @careers.each do |career| %>
+  <li><%= @name %><%= career.summary %></li>
+<% end %>
+</ul>
+
+<br>
+
+<%= link_to 'Back', profile_path %>

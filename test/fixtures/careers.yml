@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+cook:
+  summary: is good at cooking.
+
+chicken:
+  summary: is chicken.
+
+champion:
+  summary: was champion.
+
+noble:
+  summary: is by pedigree an aristocrat.
+
+boozer:
+  summary: is a heavy boozer.

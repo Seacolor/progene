@@ -1,0 +1,6 @@
+<h1>Profile generator</h1>
+
+<%= form_tag({:controller => "profile", :action => "result"}) do %>
+  <%= text_field_tag 'profile[name]' %>
+  <%= submit_tag 'Send' %>
+<% end %>
