@@ -1,4 +1,4 @@
 Profile generator
 ==========
 
-Profile generator for TRPG players
+Profile generator for TRPG players.
